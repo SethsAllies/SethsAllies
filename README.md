@@ -52,8 +52,6 @@ I'm a passionate developer building **efficient backend systems**, **polished fr
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -63,9 +61,8 @@ I'm a passionate developer building **efficient backend systems**, **polished fr
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **[Project One](https://github.com/sethsallies/project-one)** | A powerful backend API for real-time data processing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
-| **[Project Two](https://github.com/sethsallies/project-two)** | A modern dashboard built with React & TypeScript. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) |
-| **[Project Three](https://github.com/sethsallies/project-three)** | CLI tool that automates repetitive workflows. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) ![CLI](https://img.shields.io/badge/CLI-000000?style=flat) |
+| **[RoStats](https://github.com/sethsallies/rostats)** | A powerful backend API for real-time data processing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
+| **[DiscordForge](https://github.com/sethsallies/DisordForge)** | A modern dashboard built with React & TypeScript. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) |
 
 > 🔎 _More projects available on my [GitHub](https://github.com/sethsallies)!_
 
