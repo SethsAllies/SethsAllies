@@ -32,7 +32,7 @@
 
 I'm a passionate developer building **efficient backend systems**, **polished front-end interfaces**, and exploring **scalable cloud-native architectures**.  
 
-- 🔭 **Currently Working On:** [AI Automation Toolkit](https://github.com/sethsallies)
+- 🔭 **Currently Working On:** [AI Automation Toolkit](https://github.com/sethsallies/rostats)
 - 🌱 **Learning:** Go • Rust • Kubernetes
 - 💬 **Ask Me About:** Python, TypeScript, DevOps, Automation
 - ⚡ **Fun Fact:** I turn coffee ☕ into clean, readable code and sometimes debug it at 3 AM 🌙.
