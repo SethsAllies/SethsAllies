@@ -64,7 +64,7 @@ I'm a passionate developer building **efficient backend systems**, **polished fr
 | Project | Description | Tech |
 |--------|-------------|------|
 | **[RoStats](https://github.com/sethsallies/rostats)** | A powerful backend API for real-time data processing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
-| **[DiscordForge](https://github.com/sethsallies/DisordForge)** | A modern dashboard built with React & TypeScript. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) |
+| **[OldDiscordForge](https://github.com/sethsallies/OldDisordForge)** | A modern dashboard built with React & TypeScript. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) |
 
 > 🔎 _More repositories available on my [GitHub](https://github.com/sethsallies)!_
 
